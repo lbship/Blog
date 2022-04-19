@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T09:24:14.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-oMtxyXfPznTiyxQONfp" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-19T09:27:48.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2cojvTZ4YCunHoiTwLFa" version="17.4.5" type="github">
   <diagram id="UJMsLFa42X8FvGDw-vX3" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCFFFF" math="0" shadow="1">
       <root>
@@ -26,37 +26,37 @@
           <mxGeometry x="541.5" y="532.5" width="89" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-22" value="实时日志解析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="206.5" y="408" width="199.5" height="65" as="geometry" />
+          <mxGeometry x="201.5" y="408" width="199.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-25" value="离线采集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="430.5" y="408" width="202.5" height="65" as="geometry" />
+          <mxGeometry x="425.5" y="408" width="202.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-27" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="225" y="233" width="76" height="53" as="geometry" />
+          <mxGeometry x="201.5" y="236" width="76" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-28" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFE6CC;fontColor=#3399FF;fillColor=none;labelBorderColor=none;dashed=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="169" y="521.5" width="511.5" height="87" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-29" value="实时多维关联" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="319" y="233" width="78" height="54" as="geometry" />
+          <mxGeometry x="321" y="236" width="78" height="54" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-34" value="实时建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="413" y="235" width="77" height="51" as="geometry" />
+          <mxGeometry x="442" y="238" width="77" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-35" value="AI计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="506" y="236" width="75" height="50" as="geometry" />
+          <mxGeometry x="550" y="237.5" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-36" value="元数据管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="225" y="294" width="76" height="53" as="geometry" />
+          <mxGeometry x="201.5" y="297" width="76" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-38" value="数据治理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="319" y="294" width="76" height="53" as="geometry" />
+          <mxGeometry x="321" y="297" width="76" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-39" value="数据生命周期管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="413" y="294" width="76" height="53" as="geometry" />
+          <mxGeometry x="442" y="297" width="76" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-40" value="数据安全管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="506" y="294" width="76" height="53" as="geometry" />
+          <mxGeometry x="550" y="297" width="76" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-41" value="实时大屏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="203.5" y="113" width="89" height="65" as="geometry" />
@@ -71,13 +71,13 @@
           <mxGeometry x="543.5" y="116.5" width="89" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-45" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFE6CC;fontColor=#3399FF;fillColor=none;labelBorderColor=none;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="171" y="98" width="511.5" height="87" as="geometry" />
+          <mxGeometry x="171" y="98" width="498" height="87" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-46" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFE6CC;fontColor=#3399FF;fillColor=none;labelBorderColor=none;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="167" y="397" width="511.5" height="87" as="geometry" />
+          <mxGeometry x="167" y="397" width="511" height="87" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-47" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFE6CC;fontColor=#3399FF;fillColor=none;labelBorderColor=none;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="158.25" y="227" width="511.5" height="130" as="geometry" />
+          <mxGeometry x="161" y="229" width="511.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZsuB_UANE7rcjaerfHN0-50" value="&lt;span&gt;&lt;font color=&quot;#3399ff&quot;&gt;数据应用&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="81" y="124" width="80" height="30" as="geometry" />
